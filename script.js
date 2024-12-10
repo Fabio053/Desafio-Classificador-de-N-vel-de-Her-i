@@ -2,7 +2,7 @@ let heroi = {
     nome: "Heroi Generico",
     XP: 1000,
     rank: "" 
-};
+}; 
 
 if (heroi.XP <= 1000) {
     heroi.categoria = "Ferro";
