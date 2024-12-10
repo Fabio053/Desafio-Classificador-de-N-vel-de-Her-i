@@ -1,7 +1,7 @@
 let heroi = {
     nome: "Heroi Generico",
     XP: 1000,
-    rank: ""
+    rank: "" 
 };
 
 if (heroi.XP <= 1000) {
